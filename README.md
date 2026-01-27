@@ -106,6 +106,4 @@ Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks
 | Discourse Drawer       | `hide-drawer`                | [removes Discourse Drawer Theme Component]                     |
 
 
-Cloned and added # discourse-composer-tip
-
-A component to add tips in composer.
+Cloned and added the CSS to discourse-composer-tip (A component to add tips to Tags in composer.)
