@@ -1,9 +1,8 @@
-<DModal
-  @closeModal={{@closeModal}}
-  class="tag-composer-tip-modal"
-  @title={{theme-i18n "composer_tag_tip_modal.title"}}
->
+<DModal>
   <:body>
+    @closeModal={{@closeModal}}
+    class="tag-composer-tip-modal"
+    @title={{theme-i18n "composer_tag_tip_modal.title"}}
     <h3>{{@model.title}}</h3>
     <p>
       {{htmlSafe @model.text}}
