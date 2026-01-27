@@ -545,6 +545,9 @@ li.sidebar-section-link-wrapper[data-tag-name*='hide-'],
   .signup-cta {
     display: none !important;
   }
+  .powered-by-discourse {
+    display: none !important;
+  }
 }
 @media only screen and (min-width: 650px) {
   .tag-hide-all-but-topic-body {
