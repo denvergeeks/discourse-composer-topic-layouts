@@ -107,3 +107,8 @@ Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks
 
 
 Cloned and added the CSS to discourse-composer-tip (A component to add tips to Tags in composer.)
+
+---
+### Copy-Paste List of Comma-Separated Tags for bulk adding on the /tags page
+
+hide-all-but-topic-body,hide-header,hide-profiler,hide-sidebar,hide-topic-status,hide-title,hide-avatar,hide-author,hide-edits,hide-post-date,hide-read-state,hide-category,hide-all-meta-data,hide-meta-data-padding,hide-timeline,hide-mobile-topic-progress,hide-topic-footer-buttons,hide-topic-map,hide-more-topics,hidemore-content,hide-suggested-topics-message,hide-post-links,hide-main-side-margins,hide-post-menu-area,hide-reactions,hide-copy-link,hide-share-button,hide-like-button,hide-flag-button,hide-bookmark-button,hide-reply-button,hide-signup-cta,hide-main-padding,hide-topic-border-top,hide-topicborder-bottom,hide-small-action-posts,hide-topic-bg-color,show-timeline,hide-topic-body-box-shadow,hide-header-submenus,hide-drawer
