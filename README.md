@@ -105,9 +105,6 @@ Required: ![discourse-setting-show-tags-by-group](https://github.com/denvergeeks
 | Header Submenus        | `hide-header-submenus`       | [removes Header Submenus Theme Component]                      |
 | Discourse Drawer       | `hide-drawer`                | [removes Discourse Drawer Theme Component]                     |
 
-
-Cloned and added the CSS to discourse-composer-tip (A component to add tips to Tags in composer.)
-
 ---
 ### Copy-Paste List of Comma-Separated Tags for bulk adding on the /tags page
 
