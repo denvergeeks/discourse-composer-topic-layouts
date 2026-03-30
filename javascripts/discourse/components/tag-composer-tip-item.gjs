@@ -3,7 +3,7 @@ import { tracked } from "@glimmer/tracking";
 import { on } from "@ember/modifier";
 import { action } from "@ember/object";
 import { service } from "@ember/service";
-import { htmlSafe } from "@ember/template";
+import { trustHTML } from "@ember/template";
 import TagTipModal from "./tag-composer-tip-modal";
 
 export default class TagComposerTipItem extends Component {
@@ -88,7 +88,7 @@ export default class TagComposerTipItem extends Component {
             {{this.args.rule.short_description}}
           </summary>
           <span>
-            {{htmlSafe this.args.rule.long_description}}
+            {{trustHTML this.args.rule.long_description}}
           </span>
         </details>
       {{/if}}
